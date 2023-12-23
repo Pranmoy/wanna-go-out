@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: #F8C8DC;
+    margin-left: 500px;
+}
+
+.header_text {
+    font-size: 100px;
+    color: azure;
+    justify-content: center;
+    margin-left: 3%;
+}
